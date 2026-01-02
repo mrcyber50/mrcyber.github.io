@@ -99,7 +99,7 @@ experiences:
   - role: Information Security Analyst II
     time: 2017 - Present
     company: Private, MI, USA
-    icon: 
+    icon: www.svsu.edu.png
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -115,7 +115,7 @@ experiences:
   - role: Cyber Security Instructor
     time: 2025 - Present
     company: Texas A&M Extension Service (TEEX), College Station, TX
-    icon: 
+    icon: teex.org.ico
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -127,7 +127,7 @@ experiences:
   - role: IT Security Technician
     time: 2016 - 2017
     company: Dow Credit Union, MI, USA
-    icon: 
+    icon: dowcreditunion.org.png
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
