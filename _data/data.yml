@@ -72,18 +72,8 @@ education:
   info:
   - degree: BSc in Computer Science
     university: Saginaw Valley State University
+    icon: www.svsu.edu.png
     time: 2013 - 2018
-    details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
     details: |
       Describe your study here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -99,7 +89,7 @@ experiences:
   - role: Information Security Analyst II
     time: 2017 - Present
     company: Private, MI, USA
-    icon: www.svsu.edu.png
+    icon: 
     details: |
       Describe your role here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
